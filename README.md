@@ -55,7 +55,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/deriv-trading-bot.git
+git clone https://github.com/sanjaeduncan03-art/deriv-trading-bot.git
 
 Navigate to the project folder:
 
